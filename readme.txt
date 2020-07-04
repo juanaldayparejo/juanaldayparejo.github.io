@@ -1,31 +1,29 @@
-Free Responsive HTML5 Template
-
-Above Educational Bootstrap Responsive template is a modern clean multi-purpose html5 template built with valid HTML5 & CSS3. It's build on top of latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like Educational Institutes, colleges, Schools, e-Learning, Training centre, Tutors, Charity, Primary School, business, consultancy, agency, personal portfolio, profile and mobile website.
-
-
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design 
-Multi-purpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
-
+Bootstrap Template
+-------
+Rider free multi purpose bootstrap template is a clean and modern responsive HTML5 Bootstrap theme template for multi purpose use like corporate business consulting profile. This theme has a elegant modern look, very easy to customize It’s provided with an nice responsive layer slider. This theme is fully responsive build on top of Bootstrap using HTML5 CSS3.  Great for Corporate business, consulting office, Agency, portfolio and many more.
+ 
+Features :
+--------
+=> Twitter Bootstrap 3.2.0
+=> Clean & Developer-friendly HTML5 and CSS3 code
+=> 100% Responsive Layout Design
+=> Multipurpose theme
+=> Google Fonts Support
+=> Font Awesome
+=> Gallery Section Lightbox
+=> Smooth Scrolling
+=> Fully Customizable
+=> Camera Carousal
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
+=> Design and developed: "WebThemez"  http://webthemez.com 
 => For more free web themes: http://webthemez.com
 => Framework : http://getbootstrap.com
+=> Image: All the images are used for DEMO purous only. we are not responsible for copyrights issues.
+=> http://imageion.net/
 
 License :
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-Note:
-All images user here is for demo purpose only, we are not responsible for any copyrights.
+**Note: Please dont remove the backlink (Template by: webthemez.com) in the footer.
