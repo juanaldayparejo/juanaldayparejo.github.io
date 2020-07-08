@@ -1,1 +1,0 @@
-# juanaldayparejo.github.io
